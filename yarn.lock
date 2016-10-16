@@ -2815,6 +2815,10 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
+ng-file-upload:
+  version "12.2.12"
+  resolved "https://registry.yarnpkg.com/ng-file-upload/-/ng-file-upload-12.2.12.tgz#bb3e590e993398837e38bf729e45c353e44a6acd"
+
 no-case@^2.2.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/no-case/-/no-case-2.3.0.tgz#ca2825ccb76b18e6f79d573dcfbf1eace33dd164"
